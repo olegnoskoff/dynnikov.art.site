@@ -1,0 +1,9 @@
+.header__title {
+  color: #141414;
+  font-size: 45px;
+  font-weight: 900;
+  text-align: center;
+  letter-spacing: 0.3px;
+  margin: 20px auto;
+  padding: 0;
+}

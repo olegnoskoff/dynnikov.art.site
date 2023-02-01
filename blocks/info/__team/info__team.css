@@ -1,0 +1,17 @@
+.info__team {
+  display: flex;
+  flex-direction: column;
+  width: 148px;
+  padding: 13px;
+
+}
+
+.info__team:hover  {
+  background-image: url(../../../img/active.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  transition: 0.3s;
+  cursor: pointer;
+  width: 148px;
+  padding: 13px;
+}

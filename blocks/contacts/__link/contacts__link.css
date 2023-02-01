@@ -1,0 +1,16 @@
+.contacts__link {
+  font-size: 19px;
+  font-weight: 600;
+  color: #ff294d;
+  transition: opacity 0.55s ease;
+  text-decoration: none;
+}
+
+.contacts__link:hover {
+  opacity: 0.55;
+}
+
+p {
+  text-align: center;
+  margin: 10px auto;
+}
