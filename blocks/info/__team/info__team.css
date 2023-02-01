@@ -3,6 +3,7 @@
   flex-direction: column;
   width: 148px;
   padding: 13px;
+  align-items: center;
 
 }
 
@@ -10,8 +11,7 @@
   background-image: url(../../../img/active.png);
   background-repeat: no-repeat;
   background-position: top center;
+  align-items: center;
   transition: 0.3s;
   cursor: pointer;
-  width: 148px;
-  padding: 13px;
 }
