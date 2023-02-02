@@ -3,8 +3,8 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
   overflow: auto;
+  height: 100%;
   font-family: "Inter", Arial, sans-serif;
   color: black;
   -webkit-font-smoothing: antialiased;
